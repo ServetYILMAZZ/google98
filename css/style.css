@@ -1,0 +1,61 @@
+.GoogleIcon {
+  width: 25%;
+  margin: 0 auto;
+  margin-top: 10px;
+  display: block;
+}
+.google-search {
+  text-align: center;
+  width: 90%;
+  margin: 0em auto;
+  background-color: #eeeeee;
+}
+p {
+  margin: 0 auto;
+}
+.mainbox {
+  width: 90.3%;
+  margin: auto;
+  float: left;
+}
+.box {
+  padding-top: 10px;
+  float: left;
+  height: 80px;
+}
+.box#one {
+  width: 33%;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+.box#two {
+  width: 29%;
+  font-size: initial;
+  font-family: monospace;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+.box#three {
+  width: 37%;
+  font-size: initial;
+  font-family: monospace;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+#one {
+  text-align: center;
+  background-color: #7ee5da;
+}
+#two {
+  text-align: center;
+  background-color: #70ccc2;
+}
+#three {
+  text-align: center;
+  background-color: #62b3aa;
+}
+footer {
+  text-align: center;
+  font-size: small;
+  margin: 8em auto;
+}
